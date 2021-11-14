@@ -5,6 +5,7 @@ Demonstrate github character lengths
 * [Issue / comment](https://github.com/martinus/github-character-length/issues/1)
 * [Diff, unified view](https://github.com/martinus/github-character-length/commit/4c9d80500c7c1e69d74bd238718712646b73dd46?diff=unified)
 * [Diff, split view](https://github.com/martinus/github-character-length/commit/4c9d80500c7c1e69d74bd238718712646b73dd46?diff=split)
+* [Comment in PR](https://github.com/martinus/github-character-length/pull/2)
 
 * Right here in a markdown document:
 
