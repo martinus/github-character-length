@@ -1,7 +1,12 @@
 # github-character-length
-Demonstrate github character lenghts
 
-In README.md:
+Demonstrate github character lengths
+
+* [Issue / comment](https://github.com/martinus/github-character-length/issues/1)
+* [Diff, unified view](https://github.com/martinus/github-character-length/commit/4c9d80500c7c1e69d74bd238718712646b73dd46?diff=unified)
+* [Diff, split view](https://github.com/martinus/github-character-length/commit/4c9d80500c7c1e69d74bd238718712646b73dd46?diff=split)
+
+* Right here in a markdown document:
 
 ```
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
